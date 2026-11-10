@@ -1,0 +1,6 @@
+gcp_id,work_id,x_m_local,y_m_local,z_m_synthetic,role
+GCP-01,LP-2026-001,0.0,0.0,100.0109,fictional local reference point
+GCP-02,LP-2026-001,20.0,0.0,100.5093,fictional local reference point
+GCP-03,LP-2026-001,0.0,20.0,99.6708,fictional local reference point
+GCP-04,LP-2026-001,20.0,20.0,100.464,fictional local reference point
+GCP-05,LP-2026-001,10.0,10.0,100.3529,fictional local reference point

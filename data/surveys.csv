@@ -1,0 +1,3 @@
+survey_id,work_id,survey_type,survey_date,terrain_file,data_status
+SURV-PRE-001,LP-2026-001,PRE,2026-09-01,../terrain/dem_before.asc,SYNTHETIC
+SURV-POST-001,LP-2026-001,POST,2026-09-15,../terrain/dem_after.asc,SYNTHETIC

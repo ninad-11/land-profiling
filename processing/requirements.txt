@@ -1,0 +1,6 @@
+numpy
+scipy
+rasterio
+fastapi
+uvicorn
+python-multipart

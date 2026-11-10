@@ -1,0 +1,15 @@
+UPDATED SYNTHETIC DATA SUMMARY
+==============================
+Main database: land_profiling
+Terrain demo work ID: LP-2026-001
+Database has 12 fictional worksite records. Only LP-2026-001 has a terrain grid/DEM/point cloud in this package.
+Terrain grid: 21 x 21 points; 1 m spacing; 20 m x 20 m; 400 m².
+Terrain point count: 441
+Calculated illustrative cut: 25.618 m³
+Calculated illustrative fill: 18.096 m³
+Net cut (cut - fill): 7.523 m³
+Total cut + fill (illustrative earth moved): 43.714 m³
+Sample estimate (fictional total cut + fill): 47.210 m³
+Sample recorded quantity (fictional total cut + fill): 43.710 m³
+Difference vs sample quantity: 0.004 m³ (0.009%)
+IMPORTANT: all records are fictional. This is not a real MGNREGS survey, official MB, GPS data, or an engineering-grade volume calculation.

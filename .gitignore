@@ -1,0 +1,48 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.log
+venv/
+.venv/
+.env
+.env.*
+
+# Java / Maven
+backend/target/
+*.class
+*.jar
+*.war
+
+# Uploaded survey files
+backend/uploads/
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Python processing temporary files
+processing/venv/
+processing/.venv/
+processing/data/uploads/
+
+# Secrets
+*.pem
+*.key
+application-local.properties
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+processing/outputs/
+structure.txt
+report/

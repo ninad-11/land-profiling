@@ -1,0 +1,17 @@
+{
+  "data_status": "SYNTHETIC / FICTIONAL \u2014 NOT REAL MGNREGS DATA",
+  "work_id": "LP-2026-001",
+  "work_name": "Demonstration Land Levelling 01",
+  "work_type": "Land levelling",
+  "village": "Samplepur (fictional)",
+  "gram_panchayat": "Demo Gram Panchayat (fictional)",
+  "block": "Example Block (fictional)",
+  "district": "Example District (fictional)",
+  "state": "Madhya Pradesh (illustrative context; site fictional)",
+  "site_width_m": 20,
+  "site_length_m": 20,
+  "site_area_m2": 400,
+  "coordinate_system": "Local synthetic Cartesian X/Y grid in metres; NOT georeferenced GPS coordinates",
+  "method": "Mathematically generated elevations; no real field survey",
+  "note": "This terrain dataset represents only LP-2026-001. The other 11 database worksites are metadata/quantity demo records and do not have separate terrain files yet."
+}

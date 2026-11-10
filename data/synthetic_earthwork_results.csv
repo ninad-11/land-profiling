@@ -1,0 +1,2 @@
+result_id,work_id,cut_volume_m3,fill_volume_m3,net_cut_volume_m3,estimated_quantity_m3,sample_mb_quantity_m3,absolute_difference_vs_sample_mb_m3,difference_percent_vs_sample_mb,data_status
+RES-001,LP-2026-001,25.6185,18.0957,7.5228,47.2100,43.7100,0.0040,0.0090,SYNTHETIC — terrain result for LP-2026-001; comparison uses total cut + fill
