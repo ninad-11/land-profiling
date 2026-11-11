@@ -4,3 +4,5 @@ rasterio
 fastapi
 uvicorn
 python-multipart
+matplotlib
+plotly
